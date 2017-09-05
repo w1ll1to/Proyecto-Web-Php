@@ -1,5 +1,6 @@
 /*https://www.material.io */
 /*https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Lobster');
 
 header{
   width: 85%:auto;
@@ -26,7 +27,8 @@ header h1{
   position: absolute;
   color: #0b0b0b;
   font-size: 4em;
-  font-family: 'Covered By Your Grace', text-shadow:2px 4px #5eaf70;
+  /*font-family: 'Covered By Your Grace', text-shadow:2px 4px #5eaf70;*/
+  font-family: 'Lobster', cursive;
   transition-property: color, text-shadow;
   transition-duration: 1s, 1.5s;
   -webkit-transition:color 1s;
